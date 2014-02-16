@@ -1,0 +1,16 @@
+{
+  "name": "chrome-events",
+  "repo": "segmentio/chrome-events",
+  "description": "tiny wrapper for chrome events, inspired by component/events",
+  "version": "0.0.1",
+  "keywords": ["events", "chrome"],
+  "dependencies": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "ianstormtaylor/to-camel-case": "*",
+    "visionmedia/debug": "*",
+    "yields/capitalize": "*"
+  }
+}
